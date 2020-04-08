@@ -1,4 +1,4 @@
-# Sztuczna_Inteligencja_Projekt
+# Sztuczna Inteligencja Projekt
 
 Grupa projektowa:
 Zofia Bączyk
