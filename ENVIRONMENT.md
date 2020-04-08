@@ -15,8 +15,8 @@ Następne etapy projektu również będą opartę o ten język programowania.
 Brak zmiany technologi zapewni większą spójność projektu.</p>
 
 ## Krata
-<a id="krata"> Zdjęcie </a>
-[krata]: https://drive.google.com/open?id=1qQnFF0h3g1D9mHqkVNUOfLFdXn_Xmhkc
+![Zdjęcie kraty](https://drive.google.com/open?id=1qQnFF0h3g1D9mHqkVNUOfLFdXn_Xmhkc)
+
 <p>Obszarem możliwych ruchów jest krata. Krata jest przedstawiona jako objekty: Saper, ściana, bomba, puste pole.
 Mapy są tłumaczone z dwuwymiarowej tablicy gdzie: '1'- reprezentuje ścianę, '2'- reprezentuje sapera, '3'- reprezentuje bombę a '0'- puste pola po których może poruszać się Saper.
 Zasoby graficzne znajdują się w folderze images.</p>
