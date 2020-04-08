@@ -15,7 +15,7 @@ Następne etapy projektu również będą opartę o ten język programowania.
 Brak zmiany technologi zapewni większą spójność projektu.</p>
 
 ## Krata
-
+<img src="https://drive.google.com/file/d/1qQnFF0h3g1D9mHqkVNUOfLFdXn_Xmhkc/view?usp=sharing">
 
 <p>Obszarem możliwych ruchów jest krata. Krata jest przedstawiona jako objekty: Saper, ściana, bomba, puste pole.
 Mapy są tłumaczone z dwuwymiarowej tablicy gdzie: '1'- reprezentuje ścianę, '2'- reprezentuje sapera, '3'- reprezentuje bombę a '0'- puste pola po których może poruszać się Saper.
